@@ -1,9 +1,9 @@
 # FRED AI screenshots
 
-## 10-year Treasury yield since 2000
+## Prompt 1
 
 ![10-year Treasury yield since 2000](Picture1.png)
 
-## Adding the 30-year mortgage rate
+## Prompt 2
 
 ![10-year Treasury yield and 30-year mortgage rate](Picture2.png)
